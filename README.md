@@ -33,4 +33,8 @@ mind-sap-contracts
 
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions or feedback about the smart contracts, feel free to reach out via our [Official Channels](https://mindnetwork.xyz/).
